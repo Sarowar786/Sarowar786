@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sarowar786/Sarowar786/blob/main/Sarowar%20Cover%20Photo.png)
 <h1 align="center">Hi 👋, I'm Md Golam Sarowar</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh.</h3>
+<h3 align="center">A Frontend Developer from Bangladesh.</h3>
 
 <img align="right" alt='coding' width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s" >
 
@@ -8,11 +8,11 @@
 
 - 👨‍💻 Visite my protfolio [https://sarowar07.vercel.app/](https://sarowar07.vercel.app/)
 
-- 💬 Ask me about **JavaScript, React js**
+- 💬 Ask me about **JavaScript, React.js, Next.js **
 
 - 📫 How to reach me **sarowar2287@gmail.com**
 
-- 📄 Know about my experiences please check my Resume [https://drive.google.com/file/d/13bi9-EZfoq09hqKCeDUUtAK2TjIW61ds/view?usp=sharing](https://drive.google.com/file/d/13bi9-EZfoq09hqKCeDUUtAK2TjIW61ds/view?usp=sharing)
+- 📄 Know about my experiences please check my Resume [https://drive.google.com/file/d/13bi9-EZfoq09hqKCeDUUtAK2TjIW61ds/view?usp=sharing](https://drive.google.com/file/d/1UcuMkGxqZvQ2FYtOA_o2h81IW_3CYICa/view?usp=sharing)
 
 - ⚡ Fun fact **I am so funny 🙂**
 
