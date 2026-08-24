@@ -1,33 +1,186 @@
-![logo](https://github.com/Sarowar786/Sarowar786/blob/main/Sarowar%20Cover%20Photo.png)
-<h1 align="center">Hi 👋, I'm Md Golam Sarowar</h1>
-<h3 align="center">A Frontend Developer from Bangladesh.</h3>
+<div align="center">
 
-<img align="right" alt='coding' width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s" >
+<img src="https://github.com/Sarowar786/Sarowar786/blob/main/Sarowar%20Cover%20Photo.png" alt="Sarowar Cover Photo" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarowar786&label=Profile%20views&color=0e75b6&style=flat" alt="sarowar786" /> </p>
+# 👋 Hi, I'm Md Golam Sarowar
 
-- 👨‍💻 Visite my protfolio [https://sarowar.tech](https://sarowar.tech)
+### 💻 Frontend Developer from Bangladesh 🇧🇩
 
-- 💬 Ask me about **JavaScript, React.js, Next.js **
+<p>
+  <a href="https://sarowar.tech">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-sarowar.tech-0ea5e9?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1D1BYLfuM4FRwfw6du5SXOgilApOSDOfx/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-22c55e?style=for-the-badge" alt="Resume"/>
+  </a>
+</p>
 
-- 📫 How to reach me **sarowar2287@gmail.com**
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Sarowar786&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-- 📄 Know about my experiences please check my Resume [Here](https://drive.google.com/file/d/1D1BYLfuM4FRwfw6du5SXOgilApOSDOfx/view?usp=sharing)
-
-- ⚡ Fun fact **I am so funny 🙂**
-
-## 🌐 Connect with me:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mdgolamsarowar2) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdgolam.sarowar.942) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_golam_sarowar_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-golam-sarowar-) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:20185207) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Sarowar786) 
-
-# 💻 Language and Tools:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sarowar786&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sarowar786&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarowar786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sarowar786&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a passionate **Frontend Developer** from Bangladesh who enjoys creating modern, responsive, and user-friendly web applications.
+
+* 🔭 Currently working with **React.js & Next.js**
+* 🌱 Learning and improving my skills in **TypeScript & Next.js**
+* 💡 Interested in **Modern UI, Frontend Architecture & Web Performance**
+* 💬 Ask me about **JavaScript, React.js, Next.js, TypeScript & Tailwind CSS**
+* 👨‍💻 Portfolio: **[sarowar.tech](https://sarowar.tech)**
+* 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1D1BYLfuM4FRwfw6du5SXOgilApOSDOfx/view?usp=sharing)**
+* 📫 Email: **[sarowar2287@gmail.com](mailto:sarowar2287@gmail.com)**
+* ⚡ Fun fact: **I am so funny 🙂**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/md-golam-sarowar-">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sarowar786">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://behance.net/mdgolamsarowar2">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/mdgolam.sarowar.942">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/md_golam_sarowar_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Sarowar786">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://stackoverflow.com/users/user:20185207">
+<img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,redux" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" />
+</p>
+
+### 🎨 Design & UI
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,xd" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,npm,vscode" />
+</p>
+
+### 📦 Other Technologies
+
+<p>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=reactrouter\&logoColor=white)
+
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge\&logo=reacthookform\&logoColor=white)
+
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge\&logo=nodemon\&logoColor=white)
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarowar786&theme=github_dark" 
+    width="100%" 
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarowar786&theme=github_dark" 
+    width="49%" 
+    alt="Repositories Per Language"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarowar786&theme=github_dark" 
+    width="49%" 
+    alt="Most Commit Language"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/Sarowar786">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarowar786&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+
+</a>
+
+</div>
+
+---
+
+## 💼 Let's Connect
+
+I'm always open to **new opportunities, collaborations, frontend projects, and interesting ideas**.
+
+If you'd like to work together or just say hello, feel free to reach out.
+
+<div align="center">
+
+<a href="https://sarowar.tech">
+<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0ea5e9?style=for-the-badge" />
+</a>
+
+<a href="mailto:sarowar2287@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Made with ❤️ by Md Golam Sarowar**
+
+</div>
